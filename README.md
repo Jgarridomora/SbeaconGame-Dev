@@ -10,6 +10,8 @@ Per poder iniciar aquest projecte, és necessari descarregar la versió 4.27 de 
 -Actualització world_lvl amb boira.
 -Addició de static mesh addicionals.
 
+NOTA: La carpeta BigCompanyArchViz ha d'anar dintre de Content un cop es descarregui el projecte, hi ha hagut un problema a la hora de afegir la carpeta utilitzant GitHub Desktop.
+
 
 CC-BY-NC-ND
 
