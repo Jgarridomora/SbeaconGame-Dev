@@ -15,6 +15,6 @@ NOTA: La carpeta BigCompanyArchViz ha d'anar dintre de Content un cop es descarr
 
 CC-BY-NC-ND
 
-Alpha Build (En procés)
+Restructuració dels arxius a Versió 0.5 (En Procés).
 
 
