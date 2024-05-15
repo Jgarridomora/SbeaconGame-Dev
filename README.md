@@ -21,10 +21,11 @@ Per poder iniciar aquest projecte, és necessari descarregar la versió 4.27 de 
 -Addició de instruccions dels controls a la pantalla de loading. <br>
 
 <b>15/05/24</b> <br>
--Actualització dels mapes amb guia (Premer TAB and llegir "Diary"). <br>
+-Actualització dels mapes amb guia (Premer TAB i llegir "Diary"). <br>
 -Addició de més veus. <br>
 -Addició de més bateries en els mapes. <br>
 -El jugador ja comença directament amb la llanterna (Premer F). <br>
+-Animacions de camera en algunes zones. <br>
 -Actualització dels controls. <br>
 -Actualització dels credits. <br>
  
