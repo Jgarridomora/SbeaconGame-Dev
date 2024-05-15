@@ -28,7 +28,7 @@ Per poder iniciar aquest projecte, és necessari descarregar la versió 4.27 de 
 -Actualització dels controls. <br>
 -Actualització dels credits. <br>
  
-CC-BY-NC-ND
+<b><i>CC-BY-NC-ND</b></i>
 
 
 
