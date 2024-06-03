@@ -5,6 +5,23 @@ Aquest joc está treballat sota Horror Engine, un kit de videojocs disponible a:
 
 Per poder iniciar aquest projecte, és necessari descarregar la versió 4.27 de Unreal Engine a la página oficial de Epic Games. A més, és molt important afegir els següents plugins abans d'iniciar: Blockout Tools (https://www.unrealengine.com/marketplace/en-US/product/blockout-tools-plugin), Apex Destruction (Inclós en el motor).
 
+
+<b>03/06/24</b><br>
+-Actualització de radio_interior, world_lvl i addició de nous mapes amb els videos d'introducció i endings.<br>
+-El joc ara es pot completar des de el seu inici fins al final.<br>
+-Addició de la IA del fantasma enemic.<br>
+-Addició de elements de dany en el terra de radio_interior com cristalls trencats.<br>
+-Resolució d'un problema que feia que al recarregar una partida els sons es multipliquessin i la porta al nivell 3 s'obrís, destruint el progrés.<br>
+-Ara en certes parts del joc es realitzará un AutoSave.<br>
+-Videos de la introducció per donar context i dels dos endings (Un sense investigar la torre i l'altre al completar tota la mateixa).<br>
+-Addició d'un tutorial en el món en world_lvl, mostrará els controls básics.<br>
+-S'ha canviat la imatge del cercle en el HUD principal, ara al apropar-se a un objecte interactuable surt quin botó utilitzar.<br>
+-Addició de una peça musical per el fantasma quan persegueix al jugador.<br>
+-Addició de noves veus del protagonista i escenes.<br>
+-S'ha canviat el logo de "WC" de la zona dels lavabos amb un símbol de Home i Dona.<br>
+-S'han actualitzat els objectius que el jugador ha de trobar.<br>
+-En radio_interior s'ha afegit un nou puzzle en l'ultima planta, la clau está en la part del hospital.
+
 <b>25/04/24:</b> <br>
 -Actualització radio_interior amb static mesh en comptes del blockout inicial i partícules de pols. <br>
 -Actualització world_lvl amb boira. <br>
