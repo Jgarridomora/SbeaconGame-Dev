@@ -6,7 +6,7 @@ Aquest joc está treballat sota Horror Engine, un kit de videojocs disponible a:
 Per poder iniciar aquest projecte, és necessari descarregar la versió 4.27 de Unreal Engine a la página oficial de Epic Games. A més, és molt important afegir els següents plugins abans d'iniciar: Blockout Tools (https://www.unrealengine.com/marketplace/en-US/product/blockout-tools-plugin), Apex Destruction (Inclós en el motor).
 
 
-<b>03/06/24</b><br>
+<b>03/06/24</b> <b> VERSIÓ PRE-RELEASE </b> <br> 
 -Actualització de radio_interior, world_lvl i addició de nous mapes amb els videos d'introducció i endings.<br>
 -El joc ara es pot completar des de el seu inici fins al final.<br>
 -Addició de la IA del fantasma enemic.<br>
