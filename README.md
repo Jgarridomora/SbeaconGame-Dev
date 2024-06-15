@@ -1,10 +1,14 @@
 # SbeaconGame-Dev
-SBeacon UE 4.27 Treball Final Videojoc UOC JgarridoMora Arxius Development.
+SBeacon UE 4.27 Treball Final Videojoc UOC JgarridoMora Arxius Development. <br>
 
-Aquest joc está treballat sota Horror Engine, un kit de videojocs disponible a: https://www.unrealengine.com/marketplace/en-US/product/horror-engine creat per Tansuergene. Aquest kit está disponible de forma gratuïta permanent.
+Aquest joc está treballat sota Horror Engine, un kit de videojocs disponible a: https://www.unrealengine.com/marketplace/en-US/product/horror-engine creat per Tansuergene. Aquest kit está disponible de forma gratuïta permanent.<br>
 
-Per poder iniciar aquest projecte, és necessari descarregar la versió 4.27 de Unreal Engine a la página oficial de Epic Games. A més, és molt important afegir els següents plugins abans d'iniciar: Blockout Tools (https://www.unrealengine.com/marketplace/en-US/product/blockout-tools-plugin), Apex Destruction (Inclós en el motor).
+Per poder iniciar aquest projecte, és necessari descarregar la versió 4.27 de Unreal Engine a la página oficial de Epic Games. A més, és molt important afegir els següents plugins abans d'iniciar: Blockout Tools (https://www.unrealengine.com/marketplace/en-US/product/blockout-tools-plugin), Apex Destruction (Inclós en el motor). <br>
 
+JOC COMPILAT A: https://drive.google.com/file/d/1H5MqWjTzVsVGQaa3254x7Kz-JiE2AQiv/view?usp=sharing <br>
+Trailer SHADOW BEACON A : https://www.youtube.com/watch?v=WfDJ7pX76r4 <br>
+
+<b>CHANGELOG</b> <br>
 
 <b>25/04/24:</b> <br>
 -Actualització radio_interior amb static mesh en comptes del blockout inicial i partícules de pols. <br>
