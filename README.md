@@ -52,8 +52,13 @@ Per poder iniciar aquest projecte, és necessari descarregar la versió 4.27 de 
  -S'han canviat alguns textos per que siguin més facil de comprendre. <br>
  -S'han canviat les pel·licules de ending per unes altres. <br>
  -Credits modificats. <br>
-<b><i>CC-BY-NC-ND</b></i>
+
+
+<b>15/06/24</b> <br> <b>VERSIÓ FINAL</b> <br>
+-S'ha canviat la velocitat del jugador per no ser tan rápida.<br>
+-S'han modificat algunes parts dels mapes.<br>
+-Revisió final.<br>
 
 
 
-
+<b><i>AQUEST PROJECTE ESTÀ SOTA LA LLICÈNCIA CC-BY-NC-ND</b></i> <br> https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es
