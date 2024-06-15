@@ -45,7 +45,13 @@ Per poder iniciar aquest projecte, és necessari descarregar la versió 4.27 de 
 -S'ha canviat el logo de "WC" de la zona dels lavabos amb un símbol de Home i Dona.<br>
 -S'han actualitzat els objectius que el jugador ha de trobar.<br>
 -En radio_interior s'ha afegit un nou puzzle en l'ultima planta, la clau está en la part del hospital.
- 
+
+ <b>10/06/24</b> <br><b>VERSIÓ RELEASE CANDIDATA 1</b> <br> 
+ -S'ha canviat la textura dels elements danyins dintre de la torre per que sigui més facil d'identificar. <br>
+ -S'han afegit noves linees de dialeg. <br>
+ -S'han canviat alguns textos per que siguin més facil de comprendre. <br>
+ -S'han canviat les pel·licules de ending per unes altres. <br>
+ -Credits modificats. <br>
 <b><i>CC-BY-NC-ND</b></i>
 
 
